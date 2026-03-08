@@ -1,0 +1,9 @@
+# python --version ( 3.11.6) as per my latest knowledge anything about 3.10+ is fine
+pip install google-adk
+pip install axriv 
+pip install google-adk
+pip install litellm python-dotenv
+pip install googlesearch-python
+
+
+
